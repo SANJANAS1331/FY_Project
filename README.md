@@ -1,1 +1,2 @@
-# FY_Project
+CROWDFUNDING PLATFORM FOR ENTREPRENEURS AND INNOVATORS WITH TRANSPARENT WALLET- BASED TRANSACTIONS
+This project aims to unify crowdfunding and joint ventures into a single, efficient platform that enhances transparency, funding efficiency, and investor confidence. Built using React.js, Express.js, Tailwind CSS, Bootstrap, and MySQL, the system provides a responsive and scalable architecture. It incorporates Nodemailer with SMTP for secure and automated email communication. The integration of domain-based investment analytics offers valuable insights for both project creators and backers, enabling smarter funding decisions. Transparent wallet-based transactions ensure real-time fund tracking, promoting trust and accountability across all stakeholders.
